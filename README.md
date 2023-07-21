@@ -8,6 +8,6 @@ Detecting Heart Attacks using ML Model
 4. Push to GitHub!
 
 ## Connect w/ me!
-https://www.linkedin.com/in/naina-m-kumar/
-https://naina-kumar.super.site/
-https://twitter.com/NainaK1064
+- https://www.linkedin.com/in/naina-m-kumar/
+- https://naina-kumar.super.site/
+- https://twitter.com/NainaK1064
